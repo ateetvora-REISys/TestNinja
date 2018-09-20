@@ -38,6 +38,11 @@ namespace TestNinja.Mocking
         }
     }
 
+    public class Test
+    {
+
+    }
+
     public class Booking
     {
         public string Status { get; set; }
